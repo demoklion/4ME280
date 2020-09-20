@@ -1,8 +1,9 @@
 ---
-title: 4ME280
+title: 4ME486 (Work in progress)
 ---
-# Web design a uživatelská rozhraní
+# 4ME486 — Navrhování uživatelských rozhraní
 
+**TO DO ↓**
 Výuka předmětu [4ME280 Web design a uživatelská rozhraní](https://insis.vse.cz/katalog/syllabus.pl?predmet=156489) probíhá formou mimosemestrálního intenzivního kurzu v zimním nebo letním semestru 
 v rámci programu [Multimedia v ekonomické praxi](https://kme.vse.cz/studium/bakalarske-studium/obor-multimedia-v-ekonomicke-praxi/).
 Vyučujícími jsou [Filip Dědic](https://www.linkedin.com/in/filipdedic/), 
